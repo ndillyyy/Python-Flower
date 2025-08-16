@@ -10,9 +10,8 @@ A minimal Python program that generates a flower — simple, elegant, and aesthe
 ## 🌿 Features
 - Clean and minimal code  
 - Flower-inspired visualization  
-- Beginner-friendly Python script  
-
-![Screenshot](<img width="952" height="845" alt="Image" src="https://github.com/user-attachments/assets/9b980694-0a0b-4e8c-9ba4-670203f45e8b" />)
+- Beginner-friendly Python script
+ <img width="952" height="845" alt="Image" src="https://github.com/user-attachments/assets/9b980694-0a0b-4e8c-9ba4-670203f45e8b" />
 ---
 
 ## 🛠 Usage
